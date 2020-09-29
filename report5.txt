@@ -1,0 +1,18 @@
+
+
+    Employee Salary Report Fri Sep 25 17:30:13 2020
+
+  Employee
+  No.      Name			      	  Salary
+
+  102     Thurston, Howell                130000.00
+  393     Sharp, Dressedman               9242.00
+  113     Billy, Goate                    9224.00
+  183     Jack, Daniels                   3932.00
+  163     Beam, Jim                       2023.00
+  163     Jim, Beam                       2023.00
+  1323    Mason, Perry                    1922.00
+  123     Doe, John                       1022.00
+  1277    Doe, Jane                       1022.00
+  1212    Smith, Jane                     612.00
+  121     Smith, Jon                      512.00
